@@ -158,7 +158,16 @@
               </div>
           </div>
       </div>
-      
+      <!-- banner bg main end -->
+      <!-- fashion section start -->
+  
+      <!-- fashion section end -->
+
+      <!-- electronic section end -->
+      <!-- jewellery  section start -->
+ 
+      <!-- jewellery  section end -->
+      <!-- footer section start -->
       <div class="footer_section layout_padding">
          <div class="container">
             <div class="footer_logo"><a href="index.html"><img src="images/footer-logo.png"></a></div>
